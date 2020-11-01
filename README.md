@@ -1,6 +1,6 @@
 # SONY-MUSIC-BRASIL
 HACKATHON CODE STAGE SONY MUSIC BRASIL
-Jupyter Notebook
+Jupyter Notebook usando Python
 Dependências bibliotecas spotipy e wordcloud
 Lê da web api do Spotify
 Apresenta características das playlists da Sony Music Brasil
